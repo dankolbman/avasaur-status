@@ -11,3 +11,5 @@ sites:
 status-website:
   baseUrl: /avasaur-status
   name: Avasaur Status Site
+  logoUrl: https://raw.githubusercontent.com/dankolbman/avasaur/master/assets/logo_256_mark.png?token=AATBLFRZC3F6QOEALJSZN5LBHN5C4
+  cname: status.avasaur.com
