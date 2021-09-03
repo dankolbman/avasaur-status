@@ -1,20 +1,40 @@
 [
   {
-    "name": "Avasaur",
+    "name": "Avasaur Marketing",
     "url": "https://avasaur.com",
     "icon": "https://favicons.githubusercontent.com/avasaur.com",
-    "slug": "avasaur",
+    "slug": "avasaur-marketing",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 489,
-    "timeDay": 489,
-    "timeWeek": 489,
-    "timeMonth": 489,
-    "timeYear": 489,
+    "time": 339,
+    "timeDay": 339,
+    "timeWeek": 339,
+    "timeMonth": 339,
+    "timeYear": 339,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Avasaur App",
+    "url": "https://app.avasaur.com",
+    "icon": "https://favicons.githubusercontent.com/app.avasaur.com",
+    "slug": "avasaur-app",
+    "status": "down",
+    "uptime": "40.22%",
+    "uptimeDay": "40.22%",
+    "uptimeWeek": "40.22%",
+    "uptimeMonth": "40.22%",
+    "uptimeYear": "40.22%",
+    "time": 620,
+    "timeDay": 620,
+    "timeWeek": 620,
+    "timeMonth": 620,
+    "timeYear": 620,
+    "dailyMinutesDown": {
+      "2021-09-03": 0
+    }
   }
 ]
