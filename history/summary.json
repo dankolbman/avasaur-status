@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 339,
-    "timeDay": 339,
-    "timeWeek": 339,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/app.avasaur.com",
     "slug": "avasaur-app",
     "status": "down",
-    "uptime": "13.29%",
-    "uptimeDay": "13.29%",
-    "uptimeWeek": "13.29%",
-    "uptimeMonth": "13.29%",
-    "uptimeYear": "13.29%",
-    "time": 620,
-    "timeDay": 620,
-    "timeWeek": 620,
-    "timeMonth": 620,
-    "timeYear": 620,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 633,
+    "timeDay": 633,
+    "timeWeek": 633,
+    "timeMonth": 633,
+    "timeYear": 633,
     "dailyMinutesDown": {
-      "2021-09-03": 0
+      "2021-09-03": 672
     }
   }
 ]
