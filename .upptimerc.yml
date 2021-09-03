@@ -3,8 +3,10 @@ owner: dankolbman
 repo: avasaur-status
 
 sites:
-  - name: Avasaur
+  - name: Avasaur Marketing
     url: https://avasaur.com
+  - name: Avasaur App
+    url: https://app.avasaur.com
     
 status-website:
   baseUrl: /avasaur-status
