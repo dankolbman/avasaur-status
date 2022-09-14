@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 380,
-    "timeDay": 107,
-    "timeWeek": 300,
+    "time": 379,
+    "timeDay": 110,
+    "timeWeek": 310,
     "timeMonth": 330,
-    "timeYear": 376,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2022-08-31": 36,
       "2022-07-27": 17,
@@ -25,8 +25,7 @@
       "2022-03-11": 23,
       "2022-01-24": 16,
       "2022-01-05": 28,
-      "2021-12-18": 18,
-      "2021-09-14": 16
+      "2021-12-18": 18
     }
   },
   {
@@ -35,15 +34,15 @@
     "icon": "https://favicons.githubusercontent.com/app.avasaur.com",
     "slug": "avasaur-app",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.92%",
-    "time": 772,
-    "timeDay": 436,
-    "timeWeek": 759,
-    "timeMonth": 837,
+    "time": 771,
+    "timeDay": 500,
+    "timeWeek": 771,
+    "timeMonth": 825,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2021-12-25": 331,
