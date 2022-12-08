@@ -1,7 +1,7 @@
 url: https://avasaur.com
-status: up
-code: 200
-responseTime: 139
-lastUpdated: 2022-12-07T23:04:25.158Z
+status: down
+code: 500
+responseTime: 3066
+lastUpdated: 2022-12-08T06:32:29.699Z
 startTime: Fri Sep 03 2021 04:23:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
