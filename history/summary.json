@@ -35,19 +35,19 @@
     "url": "https://app.avasaur.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.avasaur.com.ico",
     "slug": "avasaur-app",
-    "status": "down",
-    "uptime": "98.24%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "98.23%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 811,
-    "timeDay": 1064,
-    "timeWeek": 829,
-    "timeMonth": 1069,
+    "timeDay": 962,
+    "timeWeek": 823,
+    "timeMonth": 1060,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2023-02-24": 0
+      "2023-02-24": 11
     }
   }
 ]
