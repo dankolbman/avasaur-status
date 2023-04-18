@@ -14,7 +14,7 @@
     "timeDay": 103,
     "timeWeek": 195,
     "timeMonth": 178,
-    "timeYear": 308,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2023-03-11": 16,
       "2023-01-18": 22,
@@ -32,17 +32,19 @@
     "url": "https://app.avasaur.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.avasaur.com.ico",
     "slug": "avasaur-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 433,
-    "timeWeek": 639,
-    "timeMonth": 668,
-    "timeYear": 794,
-    "dailyMinutesDown": {}
+    "time": 791,
+    "timeDay": 922,
+    "timeWeek": 735,
+    "timeMonth": 691,
+    "timeYear": 796,
+    "dailyMinutesDown": {
+      "2023-04-18": 0
+    }
   }
 ]
