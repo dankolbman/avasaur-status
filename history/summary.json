@@ -6,14 +6,14 @@
     "slug": "avasaur-marketing",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.41%",
+    "uptimeDay": "99.14%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 277,
-    "timeDay": 791,
-    "timeWeek": 436,
-    "timeMonth": 266,
+    "timeDay": 192,
+    "timeWeek": 446,
+    "timeMonth": 267,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2023-09-13": 22,
@@ -22,8 +22,7 @@
       "2023-01-18": 22,
       "2022-12-08": 18,
       "2022-11-15": 48,
-      "2022-10-14": 17,
-      "2022-09-14": 17
+      "2022-10-14": 17
     }
   },
   {
@@ -37,11 +36,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 768,
-    "timeDay": 662,
-    "timeWeek": 592,
-    "timeMonth": 594,
-    "timeYear": 767,
+    "time": 769,
+    "timeDay": 1160,
+    "timeWeek": 668,
+    "timeMonth": 617,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2023-08-11": 82
     }
