@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 122,
-    "timeWeek": 168,
+    "timeDay": 151,
+    "timeWeek": 164,
     "timeMonth": 187,
     "timeYear": 186,
     "dailyMinutesDown": {}
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.avasaur.com.ico",
     "slug": "avasaur-app",
     "status": "down",
-    "uptime": "59.77%",
+    "uptime": "59.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 666,
+    "time": 660,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-12": 15,
+      "2025-01-13": 14,
+      "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
       "2025-01-09": 1440,
@@ -397,8 +398,7 @@
       "2024-01-18": 1440,
       "2024-01-17": 1440,
       "2024-01-16": 1440,
-      "2024-01-15": 1440,
-      "2024-01-14": 1440
+      "2024-01-15": 1440
     }
   }
 ]
