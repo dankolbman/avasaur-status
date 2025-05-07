@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.avasaur.com.ico",
     "slug": "avasaur-app",
     "status": "down",
-    "uptime": "54.65%",
+    "uptime": "54.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-07": 15,
+      "2025-05-07": 689,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
