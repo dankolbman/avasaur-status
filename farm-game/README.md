@@ -114,16 +114,32 @@ This enables **hot-reloading**: You can restart the server and all farm progress
 
 ### Custom Sprites
 
+The game supports custom 32x32 PNG sprites with **automatic fallback to procedural generation**.
+
+#### Quick Start: Generate Example Sprites
+
+```bash
+cd farm-game/assets
+pip install pillow
+python3 generate_example_sprites.py
+```
+
+This creates a complete set of basic sprites to get you started!
+
+#### Manual Sprite Creation
+
 Place custom sprites in `farm-game/assets/` with these filenames:
-- `grass.png`
-- `soil.png`
-- `watered_soil.png`
+- `grass.png`, `soil.png`, `watered_soil.png`
 - `wheat_seed.png`, `wheat_sprout.png`, `wheat_growing.png`, `wheat_mature.png`
 - `carrot_seed.png`, `carrot_sprout.png`, `carrot_growing.png`, `carrot_mature.png`
 - `tomato_seed.png`, `tomato_sprout.png`, `tomato_growing.png`, `tomato_mature.png`
 - `player.png`
 
+**Specification:** 32x32 PNG format, transparency supported
+
 If sprites are not found, the game will automatically generate **procedural sprites** with appropriate colors, so the game works out-of-the-box without any assets.
+
+See `assets/SPRITES.md` for detailed sprite creation guide.
 
 ## Project Structure
 
@@ -142,6 +158,9 @@ farm-game/
 │   ├── Cargo.toml
 │   └── src/
 │       └── main.rs     # Rendering, input, networking
+├── assets/             # Custom sprites (optional)
+│   ├── SPRITES.md      # Sprite creation guide
+│   └── generate_example_sprites.py  # Sprite generator tool
 └── README.md
 ```
 
