@@ -4,7 +4,7 @@
     "url": "https://avasaur.com",
     "icon": "https://icons.duckduckgo.com/ip3/avasaur.com.ico",
     "slug": "avasaur-marketing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 340,
     "timeYear": 259,
     "dailyMinutesDown": {
+      "2026-01-11": 0,
       "2025-05-07": 25
     }
   },
@@ -36,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 19,
+      "2026-01-11": 391,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
