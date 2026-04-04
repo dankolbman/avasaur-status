@@ -6,14 +6,14 @@
     "slug": "avasaur-marketing",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.61%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 263,
-    "timeDay": 410,
-    "timeWeek": 387,
-    "timeMonth": 366,
+    "timeDay": 265,
+    "timeWeek": 357,
+    "timeMonth": 354,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2026-04-02": 34,
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.avasaur.com.ico",
     "slug": "avasaur-app",
     "status": "down",
-    "uptime": "43.83%",
+    "uptime": "43.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-03": 25,
+      "2026-04-04": 23,
+      "2026-04-03": 1440,
       "2026-04-02": 1440,
       "2026-04-01": 1440,
       "2026-03-31": 1440,
@@ -402,8 +403,7 @@
       "2025-04-08": 1440,
       "2025-04-07": 1440,
       "2025-04-06": 1440,
-      "2025-04-05": 1440,
-      "2025-04-04": 1440
+      "2025-04-05": 1440
     }
   }
 ]
